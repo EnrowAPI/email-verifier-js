@@ -2,6 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/email-verifier.svg)](https://www.npmjs.com/package/email-verifier)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/EnrowAPI/email-verifier-js)](https://github.com/EnrowAPI/email-verifier-js)
+[![Last commit](https://img.shields.io/github/last-commit/EnrowAPI/email-verifier-js)](https://github.com/EnrowAPI/email-verifier-js/commits)
 
 Verify email addresses for deliverability with deterministic verification that works on catch-all domains. Integrate email validation into your workflow to reduce bounce rates and protect sender reputation.
 
@@ -105,7 +107,7 @@ Paid plans start at **$17/mo** up to **$497/mo**. See [pricing](https://enrow.io
 ## Documentation
 
 - [Enrow API documentation](https://docs.enrow.io)
-- [Full Enrow SDK](https://github.com/enrow/enrow-js) — includes email finder, phone finder, reverse email lookup, and more
+- [Full Enrow SDK](https://github.com/EnrowAPI/enrow-js) — includes email finder, phone finder, reverse email lookup, and more
 
 ## License
 

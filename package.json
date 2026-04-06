@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enrow/email-verifier-js"
+    "url": "https://github.com/EnrowAPI/email-verifier-js"
   },
   "homepage": "https://enrow.io",
   "engines": { "node": ">=18" },
